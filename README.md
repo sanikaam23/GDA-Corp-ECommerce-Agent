@@ -60,7 +60,8 @@ GDA-Corp-ECommerce-Agent/
 
 ## architecture diagram
 '''
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/architectural diagram.png)
+
 '''
 
 ## 🛠️ Setup Instructions
