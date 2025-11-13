@@ -58,6 +58,11 @@ GDA-Corp-ECommerce-Agent/
 ├── requirements.txt
 ```
 
+## architecture diagram
+'''
+![Architecture Diagram](assets/architecture.png)
+'''
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
